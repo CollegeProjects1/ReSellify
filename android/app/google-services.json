@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "8818680761",
+    "project_id": "fir-resellify",
+    "storage_bucket": "fir-resellify.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8818680761:android:5ffb02a64613fc87cd8c68",
+        "android_client_info": {
+          "package_name": "com.example.resellify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8818680761-it0bun9po4c703vq2cvvjc7b2srmuj3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6OQ6hGGn5FpY2RwrjrxPsJOc3Gj96NKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8818680761-it0bun9po4c703vq2cvvjc7b2srmuj3h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
